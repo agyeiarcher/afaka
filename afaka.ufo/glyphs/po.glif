@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="po" format="1">
+  <advance width="774"/>
+  <outline>
+    <contour>
+      <point x="356" y="657" type="line"/>
+      <point x="356" y="288" type="line"/>
+      <point x="426" y="288" type="line"/>
+      <point x="426" y="657" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="325" type="line"/>
+      <point x="143" y="275" type="line"/>
+      <point x="143" y="80"/>
+      <point x="239" y="-12"/>
+      <point x="391" y="-12" type="curve"/>
+      <point x="555" y="-12"/>
+      <point x="641" y="78"/>
+      <point x="641" y="275" type="curve"/>
+      <point x="641" y="325" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="266" type="curve"/>
+      <point x="576" y="266" type="line"/>
+      <point x="576" y="112"/>
+      <point x="510" y="47"/>
+      <point x="391" y="47" type="curve"/>
+      <point x="275" y="47"/>
+      <point x="207" y="120"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-04 13:40:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ju" format="1">
+  <advance width="855"/>
+  <outline>
+    <contour>
+      <point x="399" y="652" type="line"/>
+      <point x="329" y="652" type="line"/>
+      <point x="329" y="-148" type="line"/>
+      <point x="399" y="-148" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="620" type="curve"/>
+      <point x="506" y="620"/>
+      <point x="610" y="539"/>
+      <point x="610" y="309" type="curve"/>
+      <point x="668" y="309" type="line"/>
+      <point x="668" y="576"/>
+      <point x="537" y="669"/>
+      <point x="364" y="669" type="curve"/>
+      <point x="191" y="669"/>
+      <point x="60" y="576"/>
+      <point x="60" y="309" type="curve"/>
+      <point x="119" y="309" type="line"/>
+      <point x="119" y="539"/>
+      <point x="226" y="620"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-04 13:40:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

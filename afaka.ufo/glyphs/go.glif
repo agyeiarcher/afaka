@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="go" format="1">
+  <advance width="1026"/>
+  <outline>
+    <contour>
+      <point x="655" y="-160" type="curve"/>
+      <point x="755" y="-160"/>
+      <point x="863" y="-104"/>
+      <point x="863" y="85" type="curve"/>
+      <point x="863" y="485" type="line"/>
+      <point x="794" y="485" type="line"/>
+      <point x="797" y="108" type="line" smooth="yes"/>
+      <point x="798" y="-31"/>
+      <point x="752" y="-95"/>
+      <point x="655" y="-95" type="curve"/>
+      <point x="561" y="-95"/>
+      <point x="514" y="-16"/>
+      <point x="514" y="80" type="curve"/>
+      <point x="518" y="715" type="line"/>
+      <point x="449" y="715" type="line"/>
+      <point x="449" y="77" type="line" smooth="yes"/>
+      <point x="449" y="-103"/>
+      <point x="567" y="-160"/>
+    </contour>
+    <contour>
+      <point x="102" y="244" type="curve"/>
+      <point x="102" y="11" type="line"/>
+      <point x="171" y="11" type="line"/>
+      <point x="168" y="211" type="line" smooth="yes"/>
+      <point x="166" y="371"/>
+      <point x="190" y="431"/>
+      <point x="292" y="431" type="curve"/>
+      <point x="373" y="431"/>
+      <point x="432" y="361"/>
+      <point x="465" y="216" type="curve"/>
+      <point x="480" y="302" type="line"/>
+      <point x="417" y="470"/>
+      <point x="356" y="497"/>
+      <point x="283" y="497" type="curve"/>
+      <point x="179" y="497"/>
+      <point x="102" y="432"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-04 15:17:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

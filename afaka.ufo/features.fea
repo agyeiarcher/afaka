@@ -1,0 +1,135 @@
+# Prefix: lookup_0
+lookup lookup_0 {
+sub p e by pe;
+sub s a by sa;
+sub s u by su;
+sub s o by so;
+sub s e by se;
+sub p u by pu;
+sub p o by po;
+sub p a by pa;
+sub n j a by nja;
+sub n o by no;
+sub n i by ni;
+sub n e by ne;
+sub n a by na;
+sub m o by mo;
+sub m i by mi;
+sub m e by me;
+sub m a by ma;
+sub l u by lu;
+sub l o by lo;
+sub l i by li;
+sub l e by le;
+sub l a by la;
+sub k w a by kwa;
+sub k o by ko;
+sub k i by ki;
+sub k e by ke;
+sub k a by ka;
+sub g u by gu;
+sub g i by gi;
+sub g e by ge;
+sub g a by ga;
+sub f u by fu;
+sub f o by fo;
+sub f e by fe;
+sub f a by fa;
+sub d y o by dyo;
+sub d o by do;
+sub d i by di;
+sub d e by de;
+sub d a by da;
+sub b o n by bon;
+sub b o by bo;
+sub b i by bi;
+sub b e by be;
+sub b a by ba;
+sub t j a by tja;
+sub j u by ju;
+sub t e by te;
+sub w i by wi;
+sub w e by we;
+sub s i by si;
+sub t i by ti;
+sub t a by ta;
+} lookup_0;
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem hebr dflt;
+languagesystem afak dflt;
+
+feature aalt {
+# automatic
+feature salt;
+feature ss01;
+} aalt;
+
+feature dlig {
+sub p e by pe;
+sub o by o.001;
+sub s a by sa;
+sub s u by su;
+sub s o by so;
+sub s e by se;
+sub p u by pu;
+sub p o by po;
+sub p a by pa;
+sub n j a by nja;
+sub n o by no;
+sub n i by ni;
+sub n e by ne;
+sub n a by na;
+sub m o by mo;
+sub m i by mi;
+sub m e by me;
+sub m a by ma;
+sub l u by lu;
+sub l o by lo;
+sub l i by li;
+sub l e by le;
+sub l a by la;
+sub k w a by kwa;
+sub k o by ko;
+sub k i by ki;
+sub k e by ke;
+sub k a by ka;
+sub g u by gu;
+sub g i by gi;
+sub g e by ge;
+sub g a by ga;
+sub f u by fu;
+sub f o by fo;
+sub f e by fe;
+sub f a by fa;
+sub d y o by dyo;
+sub d o by do;
+sub d i by di;
+sub d e by de;
+sub d a by da;
+sub b o n by bon;
+sub b o by bo;
+sub b i by bi;
+sub b e by be;
+sub b a by ba;
+sub t j a by tja;
+sub j u by ju;
+sub t e by te;
+sub w i by wi;
+sub w e by we;
+sub s i by si;
+sub t i by ti;
+sub t a by ta;
+} dlig;
+
+feature salt {
+# automatic
+sub te by te.ss01;
+} salt;
+
+feature ss01 {
+# automatic
+sub te by te.ss01;
+} ss01;
+
